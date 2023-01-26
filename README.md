@@ -7,7 +7,7 @@ The personal, minimalist, super-fast, database free, bookmarking service.
 
 <p align="center">
     <a href="https://github.com/JuanRodenas/Shaarli/">
-        <img src="https://github.com/JuanRodenas/Shaarli/blob/main/logo-shaarli.svg" alt="logo-shaarli" width="320"/>
+        <img src="https://github.com/JuanRodenas/Shaarli/blob/main/doc-logo.svg" alt="logo-shaarli" width="320"/>
     </a>
     <br>
 </p>
